@@ -1,0 +1,17 @@
+/*
+body {
+ width: 75%;
+ height: 75%;
+ }
+ */
+body {
+
+text-align: center; /* выравниваем все содержимое body по центру */
+
+}
+div {
+
+text-align: center;
+margin: 0 auto; /* задаем отступ слева и справа auto чтобы сработало выравнивание по центру */
+
+}
